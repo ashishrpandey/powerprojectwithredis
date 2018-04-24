@@ -239,7 +239,7 @@
     <Content Include="Views\Incident\Create.cshtml" />
     <Content Include="Views\Incident\Details.cshtml" />
     <Content Include="Views\Incident\Edit.cshtml" />
-    <None Include="Properties\PublishProfiles\FinalDevcamp - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\zekedevcamp - Web Deploy.pubxml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
